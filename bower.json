@@ -5,14 +5,13 @@
   "authors": [
     "AllenFang <ayu780129@hotmail.com>"
   ],
-  "description": "It's a angular directive for bootstrap dropdown and multi-select",
+  "description": "It's a angular directive for bootstrap dropdown",
   "keywords": [
     "angular",
     "directive",
     "bootstrap",
     "dropdown",
-    "select",
-    "multiSelect"
+    "select"
   ],
   "main": [
     "dist/bsDropdown.min.js"
