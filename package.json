@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-dropdown",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "It's a angular directive for bootstrap dropdown",
   "scripts": {
     "test": "node_modules/karma/bin/karma start test/karma.conf.js"
